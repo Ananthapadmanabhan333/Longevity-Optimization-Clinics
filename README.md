@@ -65,4 +65,4 @@ Aeterna utilizes the **PhenoAge** model, which weights 9 clinical biomarkers (Al
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Built for the future of human optimization by Aeterna Intelligence.*
+*Built by Ananthapadmanabhan 
